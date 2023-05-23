@@ -1,0 +1,4 @@
+﻿  Big_INT.cpp
+C:\Users\t8925\source\repos\Big_INT\Big_INT.cpp(126,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\t8925\source\repos\Big_INT\Big_INT.cpp(251): warning C4715: big_int_mull: значение возвращается не при всех путях выполнения
+  Big_INT.vcxproj -> C:\Users\t8925\source\repos\Big_INT\Debug\Big_INT.exe

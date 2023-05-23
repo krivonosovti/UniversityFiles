@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+C:\Users\t8925\source\repos\Graph\Graph.cpp(537,10): warning C4129: /: неизвестная escape-последовательность
+C:\Users\t8925\source\repos\Graph\Graph.cpp(537,10): warning C4129: (: неизвестная escape-последовательность
+  Graph.vcxproj -> C:\Users\t8925\source\repos\Graph\Debug\Graph.exe
